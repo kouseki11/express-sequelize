@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to express-sequelize 👋</h1>
 
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/) <p align="center"><img src="logo.svg" width="100" alt="Sequelize logo" /></p>
+<h1 align="center" style="margin-top: 0;"><a href="https://sequelize.org">Sequelize</a></h1>
 
   Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).
 <p>
