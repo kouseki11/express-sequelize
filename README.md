@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to express-sequelize 👋</h1>
 
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/) 
+
   Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).
 <p>
   <a href="https://www.npmjs.com/package/express-sequelize" target="_blank">
